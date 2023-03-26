@@ -1,0 +1,79 @@
+body {
+    background-image: url(https://c1.wallpaperflare.com/preview/682/423/649/drum-set-drums-musical-instruments-drum-percussion-instrument.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+   
+}
+
+.nav {
+    display:flex; 
+    justify-content: space-around;
+    height: 150px;
+    font-size: 250%;
+    background-image: url('SelfStudios_logo.jpg');
+    background-size: contain;
+    background-position: center;
+    color: white;
+    padding-top: 50px;
+    border-style: solid;
+    border-color: whitesmoke;
+
+} 
+
+.about {
+    font-size: 150%
+}
+
+h1 {
+    color: white;
+    font-size: 300%;
+
+}
+
+h2 {
+    color:white;
+    font-size: 250%;
+}
+
+p {
+    color:white; 
+    font-size: 120%;
+    
+} 
+
+ol {
+    color:white;
+    font-size: 125%;
+} 
+
+table {
+    color:white;
+    font-size: 150%; 
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th, tr {
+    padding: 8px;
+    text-align: left; 
+    border-bottom: 1px solid whitesmoke;
+}
+
+tr:hover {
+    background-color: rgb(95, 0, 0);
+}
+
+h4{
+    color:white;
+    font-size: 125%;
+} 
+
+form {
+    color:white;
+    font-size: 150%;
+} 
+
+input {
+    font-size: 120%;
+} 
